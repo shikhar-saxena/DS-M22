@@ -1,5 +1,7 @@
 # DS Monsoon 22
 
+## Lecture Notes
+
 1. [Textbook, Weightage, DnA revisited](29-07.md)
 2. [Relational Algebra revisited](02-08.md)
 3. [Domain of Values](05-08.md)
@@ -11,4 +13,6 @@
 9. [Secondary Indexing and Indexing on Unordered/non-key](06-09.md)
 
 
-[Assignment-1](Assignment-1/Assignment-1.md)
+## Assignments
+
+- [Assignment-1](Assignment-1/Assignment-1.md)
