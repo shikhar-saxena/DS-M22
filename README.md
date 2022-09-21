@@ -11,7 +11,9 @@
 7. [Extendible & Linear Hashing](23-08.md)
 8. [Indexing TODO](30-08.md)
 9. [Secondary Indexing and Indexing on Unordered/non-key](06-09.md)
-
+10. [Makeup Class](07-09.md)
+11. [Numericals](13-09.md)
+12. [Sorting implementation](16-09.md)
 
 ## Assignments
 
