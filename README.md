@@ -14,6 +14,10 @@
 10. [Makeup Class](07-09.md)
 11. [Numericals](13-09.md)
 12. [Sorting implementation](16-09.md)
+13. [Operations](23-09.md)
+14. [Query Execution](27-09.md)
+14. [Query Execution (contd.)](30-09.md)
+14. [Query Estimation](07-10.md)
 
 ## Assignments
 
