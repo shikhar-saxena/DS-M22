@@ -18,6 +18,15 @@
 14. [Query Execution](27-09.md)
 14. [Query Execution (contd.)](30-09.md)
 14. [Query Estimation](07-10.md)
+14. [Query Estimation (contd.)](11-10.md)
+14. [Query Estimation (contd.)](14-10.md)
+14. [Buffer Management](21-10.md)
+14. [Transactions](28-10.md)
+14. [Transactions (contd.)](01-11.md)
+14. [Class Missed](04-11.md)
+14. [Class Missed](08-11.md)
+14. [Transaction management (contd.)](11-11.md)
+14. [Final Class](15-11.md)
 
 ## Assignments
 
